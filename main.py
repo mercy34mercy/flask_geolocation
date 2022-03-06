@@ -9,6 +9,7 @@ geocode_result=client.geocode('大阪府　鳳駅')
 #緯度経度を取り出す小路
 loc=geocode_result[0]['geometry']['location']
 #半径１００km以内から取得
+
 # print(geocode_result)
 place_results = client.places_nearby(location=loc, radius=5, keyword='カフェ',language='ja')
 # print(place_results['results'][0]['photos'])
