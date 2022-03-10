@@ -1,3 +1,4 @@
+from crypt import methods
 import googlemaps
 from flask import Flask
 from flask import request
@@ -14,14 +15,20 @@ api_key = "AIzaSyA-XS7P52yc7vUcY5JseKJViysWO-jEjMk"
 
 @app.route('/', methods=['POST','GET'])
 def index():
+
+
     client = googlemaps.Client(api_key)
     # 基準になる位置情報を検索
     # geocode_resultにもらってきた座標を入れる
-    geocode_result = client.geocode('大阪府　鳳駅')
-    # 緯度経度を取り出す小路
-    loc = geocode_result[0]['geometry']['location']
-    print(loc)
+    # geocode_result = client.geocode('大阪府　鳳駅')
+    # # 緯度経度を取り出す小路
+    # loc = geocode_result[0]['geometry']['location']
+    # print(loc)
     # 半径１００km以内から取得
+
+    if request.method == "POST":
+        loc = request.json
+        print(loc)
 
     #print(geocode_result)
     place_results = client.places_nearby(
