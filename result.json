@@ -1,0 +1,335 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "16",
+                "short_name": "16",
+                "types": [
+                    "premise"
+                ]
+            },
+            {
+                "long_name": "23",
+                "short_name": "23",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "1-chōme",
+                "short_name": "1-chōme",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Shibuya",
+                "short_name": "Shibuya",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Shibuya City",
+                "short_name": "Shibuya City",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Tokyo",
+                "short_name": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Japan",
+                "short_name": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "150-0002",
+                "short_name": "150-0002",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class="street-address">1-chōme-23-16 Shibuya, Shibuya City</span>, <span class="region">Tokyo</span> <span class="postal-code">150-0002</span>, <span class="country-name">Japan</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1-chōme-23-16 Shibuya, Shibuya City, Tokyo 150-0002, Japan",
+        "formatted_phone_number": "03-3409-8869",
+        "geometry": {
+            "location": {
+                "lat": 35.6619891,
+                "lng": 139.7025821
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.6633413802915,
+                    "lng": 139.7037809302915
+                },
+                "southwest": {
+                    "lat": 35.6606434197085,
+                    "lng": 139.7010829697085
+                }
+            }
+        },
+        "icon": "https: maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https: maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+81 3-3409-8869",
+        "name": "Double Tall Coffee Bar",
+        "opening_hours": {
+            "open_now": False,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1900"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1900"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1900"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1900"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1900"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1800"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9: 00 AM – 7: 00 PM",
+                "Tuesday: 9: 00 AM – 7: 00 PM",
+                "Wednesday: 9: 00 AM – 7: 00 PM",
+                "Thursday: 9: 00 AM – 7: 00 PM",
+                "Friday: 9: 00 AM – 7: 00 PM",
+                "Saturday: 10: 00 AM – 6: 00 PM",
+                "Sunday: 10: 00 AM – 6: 00 PM"
+            ]
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/105690988953404106592">中谷よしふみ</a>"
+                ],
+                "photo_reference": "Aap_uEBrAoSJpm3OjZf0X5cAZhrS5h-2KOpiLXg_XET0XrQzZbb80Cad2oW-v_YzPtj1t1H3aFkbDS67MgZvJ_HzpDtlKiUS0X1LMdVJfrQV80983t08rovdcU2Ql_6nUYjCDq6iHTefaiqaTTaWP5Q8drTAJtk6KByMYbVkNGl3gjXIhHZ0",
+                "width": 4032
+            },
+            {
+                "height": 3006,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/113288678910264955753">A N</a>"
+                ],
+                "photo_reference": "Aap_uEDBmQsS8IxBZphNdDsFU09Xgf44HSSWcvg6fi_PCArIlEw4FBFVA6N7WSRQG-LIfwQ5MOjZglG1F9_-k-dCEy6Y2weea3pVPITb75VpHBu4hwhMbwOXwWuUOAmqd5cMmM4IfLok_2cBKK9ggCRz_gSJ84kvzKUkwGeiI4DIlfl7nK8",
+                "width": 5344
+            },
+            {
+                "height": 2928,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/104023602501979422134">Zoe</a>"
+                ],
+                "photo_reference": "Aap_uEDMTIyU7QhIlIKkNxul1q5Z5K6QiV7_cG5PCJQ7TIenbq28r-I0-xjKi2Z2enr9HFaMgULMYPDgiR3Zh1dmpxGVGdaL-KBh5Vz_U74OcTX0qOV4lKWx94KuePpnM9AcoaWWwNWMiKhDodBIRlDry73e0JDhNYUifAt03HC-8Z1MOhpI",
+                "width": 2162
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/112679003737079100739">前田塁</a>"
+                ],
+                "photo_reference": "Aap_uEBtly6GHKMMnn1LCy8CmfpsphQsthP5w7QatsWOdG15Lf2o9AQXYbK3_c_Q5aPWHlOKP4roggN3GbMRMMaHdYI-4hh_vga_hREdfCay4hFnup7rperJResl1TPBK0gETq62OCp6xiG5f9mDy9r_93jZQDLo7WHp6Zm9eXSo6xGu9miv",
+                "width": 3024
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/105690988953404106592">中谷よしふみ</a>"
+                ],
+                "photo_reference": "Aap_uEBFDpIChSu_Qu0zOQ74f4IJWqe1QEzDyoVnMwJQQWscfNm1roiqJ_RNgqsnNuzbbU_hh9-CWA1vigmLSI4g2aLor5RWa7I70BM20aBAU0boDXUKs0OlvkSH8DAdr0RyfVpVt5u-x3iFyNrANWXHkmCu9_G8RJfelka_zG4seRngp452",
+                "width": 4032
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/105690988953404106592">中谷よしふみ</a>"
+                ],
+                "photo_reference": "Aap_uEAQNv0mo7Z86_82EnGdS-jX1o3_TlAeUAH2C_3Vs7IOLKe4xBRkKlXx6jsbe9HCeAyFSAVqBmlAs2tNGY7utnypKA7BeHSh9d3VCL-ZsqdT6FakYjZTbiOrMgEaDLhLdovf_VgD21jISIaFdzlaFGf4Noc3dkP-Mz1oUdRvVxzvsJDy",
+                "width": 4032
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/114047768343160010871">Ryan Cohen</a>"
+                ],
+                "photo_reference": "Aap_uEAljbku-FiTAaViP8DUCsXa3zcsL15upP81Op5ujdfiHGq-bBMLYJ8UdR0Zu4BX__VSrBUyHWxPyM7LghF8EsH6MbkiHzo6RW5GoKQ3wAvivEBLEmvCG_e8wchEqr04LzwHlse_tnP7ibSJBgnzuZhzlXS00naZ4N1NKf-1T46LCQQH",
+                "width": 3024
+            },
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/108841452562041766987">スイーツ王子Rui</a>"
+                ],
+                "photo_reference": "Aap_uEDQKgTsSQOps4mSxo0AQ4fg0ae-yubOOsvp90MvVdJv33WHsxdHxLGF_RqmRUzc__LTdIlTPMVshx9Do7hfTWXHZHOhYJiv-oCJnc0tu7D1T3BrmWiH1Au56XEQIKs5Yqvz3FCCP8rXp2LBe1qxqloot3ep5LYGWpIExkx7kpHIigUl",
+                "width": 1616
+            },
+            {
+                "height": 3265,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/114434860573065267670">Masada Takanori</a>"
+                ],
+                "photo_reference": "Aap_uECFG9xSCR6hisdiEfWXsHJMEg0d_f0hvtHj1VOUdsWDHBve5DNWPRCi7jsB4R3GiGVZrklz81jmsKN842KjeacZ0H7xqKlj7oZ-ODLcADQd018yOs_Jijm9wXtAGus8fPqi-Zcx7-jdy-MstLQFt0XDSqaG5qNomulldiHJiHoVe5q-",
+                "width": 4898
+            },
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href="https: //maps.google.com/maps/contrib/108841452562041766987">スイーツ王子Rui</a>"
+                ],
+                "photo_reference": "Aap_uEDoTsphKaQqQlijIF5SfHAwg1IsxLd-kQJtwjBcXj0Cxik5yJHZhYKG4DsOJ6-S52n5kgX3zyeDYpHoOCVI9P5sntorcA1lJ7LOhkvVXullHEJmlDq0ZTmJ4pmfOBf2r7tbhghvbz_5Bx2RZaXlpqtKzw5Ujw7CY0KD3rYzO0XIrUcV",
+                "width": 1616
+            }
+        ],
+        "place_id": "ChIJozhgx6eMGGARPcUi_SpPrAs",
+        "plus_code": {
+            "compound_code": "MP63+Q2 Shibuya City, Tokyo, Japan",
+            "global_code": "8Q7XMP63+Q2"
+        },
+        "rating": 4.5,
+        "reference": "ChIJozhgx6eMGGARPcUi_SpPrAs",
+        "reviews": [
+            {
+                "author_name": "Zoe",
+                "author_url": "https: www.google.com/maps/contrib/104023602501979422134/reviews",
+                "language": "en",
+                "profile_photo_url": "https: lh3.googleusercontent.com/a/AATXAJzS6oYShkumDdHbQff9Bt_-xYCeZj8EQ7y56NTg=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "9 months ago",
+                "text": "Customer service is great. Coffee is yummy. They sell flat whites. And the beans are cheap!!! (1200 yen for 200 g as of June 2021). The only downside is there can be a bit of a wait to get your coffee or beans because of its location. But as long as you time your visit, it’s not a problem. Only here would you order a flat white, and the barista decide to surprise you with latte art of a unicorn…",
+                "time": 1623022060
+            },
+            {
+                "author_name": "Christian Blucher",
+                "author_url": "https:www.google.com/maps/contrib/113978062038285001290/reviews",
+                "language": "en",
+                "profile_photo_url": "https: lh3.googleusercontent.com/a-/AOh14GgHslr6VFU5wky3nhpLtMEc5QVZeLjDAIcLr5QU=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "2 years ago",
+                "text": "Excellent coffee, by far the best I have had in Japan after visiting many others, excellent pricing and value. Come and support this small business\n\nEDIT: I came back for the second day in a row, once again the coffee was excellent and topped with a wonderful latte art. Extremely friendly service, you can tell that this barista truly loves his work",
+                "time": 1577861433
+            },
+            {
+                "author_name": "Francis C",
+                "author_url": "https:www.google.com/maps/contrib/110781332393700566510/reviews",
+                "language": "en",
+                "profile_photo_url": "https:lh3.googleusercontent.com/a-/AOh14GiEx21QVP-7gfRfIVLfixVRHdZwPFbYP7o6HCDSBg=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "2 years ago",
+                "text": "Excellent morning wake me up ☕️ A cappuccino detour from the morning commute before work.\nSo many options and also a soy/almond milk alternatives!! Will be coming back for more 😊",
+                "time": 1581509106
+            },
+            {
+                "author_name": "Straight-Up Japan",
+                "author_url": "https:www.google.com/maps/contrib/117542517387429152079/reviews",
+                "language": "en",
+                "profile_photo_url": "https:lh3.googleusercontent.com/a-/AOh14Gi80KG94lj8BGd3uoZrH29osseMrjRuHBbgTs0B=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 5,
+                "relative_time_description": "a year ago",
+                "text": "It’s the best coffee I’ve had in all my time here in Japan. Great for coffee lovers from Europe or the US. It’s cash only there and the coffee is a little expensive but the taste is really great.",
+                "time": 1591741347
+            },
+            {
+                "author_name": "Haven Chan",
+                "author_url": "https:www.google.com/maps/contrib/113452246199812434274/reviews",
+                "language": "en",
+                "profile_photo_url": "https:lh3.googleusercontent.com/a-/AOh14Gj2yWiPmxooDUlIyHwD5LdLEUMYbWdzftfF7vSa6A=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "a year ago",
+                "text": "On of the best in Shibuya! Don’t judge a book by its cover.",
+                "time": 1588401983
+            }
+        ],
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "url": "https:maps.google.com/?cid=841134276465575229",
+        "user_ratings_total": 62,
+        "utc_offset": 540,
+        "vicinity": "1-chōme-23-16 Shibuya, Shibuya City",
+        "website": "https:doubletall.com/cafe/cocoti/"
+    },
+    "status": "OK"
+}
