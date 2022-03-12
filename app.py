@@ -10,7 +10,7 @@ from Mapapi.process import process
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/', methods=['POST','GET'])
+@app.route('/', methods=['POST'])
 def index():
     if request.method == "POST":
         loc = request.json
